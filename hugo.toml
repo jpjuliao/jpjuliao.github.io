@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+
+title = 'JPJULIAO'
+name = 'JPJULIAO'
+author = "Juan Pablo Juliao"
+copyright = "© JPJuliao IT Solutions."
+
+theme = 'DoIt'
+[menus]
+  [[menus.main]]
+    name = 'About'
+    url = '/about'

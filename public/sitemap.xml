@@ -1,0 +1,12 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:1313/about/</loc><lastmod>2024-05-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-05-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-04-30T17:32:59-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/the-importance-of-ai-in-software-development/</loc><lastmod>2024-04-30T17:32:59-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/redis-a-powerful-in-memory-data-store/</loc><lastmod>2024-04-30T17:28:34-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/introducing-hugo.js-a-lightweight-javascript-framework/</loc><lastmod>2024-04-30T17:26:00-05:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc></url><url>
+            <loc>http://localhost:1313/tags/</loc></url></urlset>

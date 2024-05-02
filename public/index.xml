@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>JPJULIAO</title>
+        <link>http://localhost:1313/</link>
+        <description>JPJULIAO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© JPJuliao IT Solutions.</copyright><lastBuildDate>Thu, 02 May 2024 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>The Importance of AI in Software Development</title>
+    <link>http://localhost:1313/posts/the-importance-of-ai-in-software-development/</link>
+    <pubDate>Tue, 30 Apr 2024 17:32:59 -0500</pubDate><author>
+        <name>Juan Pablo Juliao</name>
+    </author><guid>http://localhost:1313/posts/the-importance-of-ai-in-software-development/</guid>
+    <description><![CDATA[<p>Artificial Intelligence (AI) has revolutionized the field of software development, offering powerful tools and technologies to streamline workflows, enhance productivity, and drive innovation.</p>]]></description>
+</item><item>
+    <title>Redis: A Powerful in Memory Data Store</title>
+    <link>http://localhost:1313/posts/redis-a-powerful-in-memory-data-store/</link>
+    <pubDate>Tue, 30 Apr 2024 17:28:34 -0500</pubDate><author>
+        <name>Juan Pablo Juliao</name>
+    </author><guid>http://localhost:1313/posts/redis-a-powerful-in-memory-data-store/</guid>
+    <description><![CDATA[<p>Redis is an open-source, in-memory data structure store known for its speed, versatility, and simplicity.</p>]]></description>
+</item><item>
+    <title>Introducing HUGO.js: A Lightweight JavaScript Framework </title>
+    <link>http://localhost:1313/posts/introducing-hugo.js-a-lightweight-javascript-framework/</link>
+    <pubDate>Tue, 30 Apr 2024 17:26:00 -0500</pubDate><author>
+        <name>Juan Pablo Juliao</name>
+    </author><guid>http://localhost:1313/posts/introducing-hugo.js-a-lightweight-javascript-framework/</guid>
+    <description><![CDATA[<p>HUGO.js is a lightweight JavaScript framework designed to simplify web development tasks.</p>]]></description>
+</item></channel>
+</rss>

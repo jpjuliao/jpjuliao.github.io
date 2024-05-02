@@ -13,3 +13,5 @@ Beyond technical expertise, I bring strong soft skills like communication, probl
 
 - [GitHub](https://github.com/jpjuliao/)
 - [LinkedIn](https://www.linkedin.com/in/jpjuliao/)
+- [Twitter](https://www.twitter.com/in/jpjuliaor/)
+

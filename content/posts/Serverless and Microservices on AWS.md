@@ -1,9 +1,9 @@
-+++
-title = 'Serverless and Microservices on AWS'
-date = 2024-05-02T18:50:59-05:00
-draft = false
-author: Juan Pablo Juliao
-+++
+---
+title: 'Serverless and Microservices on AWS'
+date: 2024-05-02T18:50:59-05:00
+draft: false
+author: 'Juan Pablo Juliao'
+---
 
 Serverless computing and microservices architecture have become popular paradigms for building scalable, flexible, and cost-effective applications. <!--more-->Amazon Web Services (AWS) offers a suite of services that enable developers to embrace these architectures seamlessly.
 

@@ -1,9 +1,9 @@
-+++
-title = 'Building RESTful APIs in Laravel'
-date = 2024-05-02T18:54:21-05:00
-draft = false
+---
+title: 'Building RESTful APIs in Laravel'
+date: 2024-05-02T18:54:21-05:00
+draft: false
 author: Juan Pablo Juliao
-+++
+---
 
 Building RESTful APIs in Laravel allows developers to create flexible and scalable backend systems to power web and mobile applications. Laravel provides powerful tools and conventions to streamline API development, making it a popular choice for building modern web services.<!--more-->
 

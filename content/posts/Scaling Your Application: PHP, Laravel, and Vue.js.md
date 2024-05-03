@@ -1,9 +1,9 @@
-+++
-title = 'Scaling Your Application: PHP, Laravel, and Vue.js'
-date = 2024-05-02T18:52:55-05:00
-draft = false
-author: Juan Pablo Juliao
-+++
+---
+title: 'Scaling Your Application: PHP, Laravel, and Vue.js'
+date: 2024-05-02T18:52:55-05:00
+draft: false
+author: 'Juan Pablo Juliao'
+---
 
 Scaling an application built with PHP, Laravel, and Vue.js involves optimizing performance, increasing capacity, and ensuring reliability to accommodate growing user demands. Here are some strategies to help you scale your application effectively.<!--more-->
 

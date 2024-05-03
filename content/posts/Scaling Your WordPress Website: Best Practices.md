@@ -1,9 +1,9 @@
-+++
-title = 'Scaling Your WordPress Website: Best Practices'
-date = 2024-05-02T18:59:59-05:00
-draft = false
-author: Juan Pablo Juliao
-+++
+---
+title: 'Scaling Your WordPress Website: Best Practices'
+date: 2024-05-02T18:59:59-05:00
+draft: false
+author: 'Juan Pablo Juliao'
+---
 
 Scaling a WordPress website involves optimizing performance, increasing capacity, and ensuring reliability to accommodate growing traffic and user demands. By following best practices, you can effectively scale your WordPress site while maintaining performance and stability.<!--more-->
 
